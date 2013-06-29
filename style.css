@@ -112,6 +112,12 @@ ul.topNav  {
 	/*padding-left:15px;
 	padding-right:15px;*/
 }
+.topNav li a.topNavLast:hover{
+	border-right:none;
+	border-left:1px dotted #0761B9;
+	/*padding-left:15px;
+	padding-right:15px;*/
+}
 .topNav li a.topNavFirst{
 	border-left:none;
 	border-right:1px dotted #FFFFFF;
